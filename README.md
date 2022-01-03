@@ -1,3 +1,13 @@
+# Happy Camper Helper - User Story:
+
+- As a user, I can view suggested packing lists for different camping seasons.
+- Once I see a season’s list, I can add an item I need to buy into ‘My Cart’.
+- I can view saved items in ‘My Cart’ as a gallery.
+- If there is an item I need that is not included in the suggested packing list, I can also create a new custom item that will be added / visible in ‘My Cart’.
+
+
+
+
 # Phase 3 Project Guidelines
 
 ## Learning Goals
