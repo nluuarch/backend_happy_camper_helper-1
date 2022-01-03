@@ -13,13 +13,13 @@
 ActiveRecord::Schema.define(version: 2022_01_03_205048) do
 
   create_table "cart", force: :cascade do |t|
-    t.string "shopping_url"
     t.integer "item_id"
   end
 
   create_table "item", force: :cascade do |t|
     t.string "name"
     t.string "description"
+    t.string "shopping_url"
     t.integer "item_id"
     t.integer "weather_id"
     t.integer "cart_id"
